@@ -29,3 +29,5 @@ console.log(candidatesPassword)
 
 const requiredAccess = process.env.API_KEY
 console.log(`Attached is the keys value ${requiredAccess}`)
+
+//The next lesson is Git and Github
